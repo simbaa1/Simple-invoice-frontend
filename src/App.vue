@@ -1,9 +1,11 @@
 <script setup>
-
+import InvoiceCreate from './components/InvoiceCreate.vue'
 </script>
 
 <template>
-  <h1>Make your Invoice</h1>
+  
+
+  <InvoiceCreate />
 </template>
 
 
